@@ -18,8 +18,8 @@
                 <li><a href="TinDang.aspx" title="Cac tin duoc dang" target="_blank">TIN ĐĂNG</a></li>
                 <li><a href="TinTuc.aspx" title="News" target="_blank">TIN TỨC</a></li>
                 <li><a href="DuAn.aspx" title="Cac Du an" target="_blank">DỰ ÁN</a></li>
-                <li class="right"><a href="#">ĐĂNG KÝ</a></li>
-                <li class="right"><a href="#">ĐĂNG NHẬP</a></li>
+                <li class="right"><a href="#">Register</a></li>
+                <li class="right"><a href="#">LOGIN</a></li>
             </ul>
         </div>
         <div id="content">
