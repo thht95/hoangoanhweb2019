@@ -44,7 +44,7 @@
                 <div>
                     <div class="boxblue">Cac tin duoc dang len</div>
                     <div>
-                        <asp:DataList ID="listTindang" runat="server" RepeatColumns="3">
+                        <asp:DataList ID="listTindang" runat="server" RepeatColumns="4">
                             <ItemTemplate>
                                 <div class="tinrao">
                                     <a href="#" title='<%# Eval("iPK_tindangID") %>'><asp:Image ID="ImageNewsTD" runat="server" Height="150px" Width="250px" ImageUrl="Image/canho.jpg"/><br /></a><br />
